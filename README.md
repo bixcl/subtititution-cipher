@@ -10,7 +10,8 @@ python3 sub-cipher.py
 ```
 
 <br>
-****NOTE**** 
+
+**NOTE**
 make sure that the terminal is opened in same folder
 
 ****Made By Bxl****
